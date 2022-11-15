@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH --account=pi-hsimpson
+#SBATCH --account=pi-lrosenzweig
 #SBATCH --partition=caslake
 #SBATCH --reservation=r_workshop
 #SBATCH --time=00:10:00
